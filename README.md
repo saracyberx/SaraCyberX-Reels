@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="git_dp.jpg" alt="Repository Logo" width="200"/>
-</p>
-
 # SaraCyberX-Reels
  A collection of PDFs, cheat sheets, and quick reference notes on cybersecurity, ethical hacking, and tech  simplified for easy learning and memorization.
 📖 SaraCyberX – Cybersecurity Notes & Resources
