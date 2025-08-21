@@ -1,1 +1,21 @@
+📚 Top 5 Ethical Hacking Books
 
+1.The Web Application Hacker’s Handbook – by Dafydd Stuttard & Marcus Pinto
+ Best for: Web app penetration testing, SQLi, XSS, advanced exploitation.
+ Considered a bible for web hackers.
+
+2.Penetration Testing: A Hands-On Introduction to Hacking – by Georgia Weidman
+ Best for: Practical exploitation using Metasploit framework.
+ Great if you want hands-on hacking practice.
+
+3.Hacking: The Art of Exploitation (2nd Edition) – by Jon Erickson
+ Best for: Understanding how exploits really work (C programming, assembly, buffer overflows).
+ Deep technical book – not just tools, but real hacker mindset.
+
+4.The Hacker Playbook 3: Practical Guide to Penetration Testing – by Peter Kim
+ Best for: Step-by-step playbook for real-world red teaming & pentesting.
+ Includes checklists, attack paths, and modern techniques.
+
+5.Practical Malware Analysis – by Michael Sikorski & Andrew Honig
+ Best for: Reverse engineering malware & analyzing malicious code.
+ Helps you understand how hackers build attacks, so you can defend better.
